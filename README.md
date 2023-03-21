@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse!</b></h3>
+  <h1><b>Hello Microverse!</b></h1>
 
 </div>
 
